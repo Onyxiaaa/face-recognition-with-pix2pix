@@ -38,8 +38,8 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut.
 ### 2. Clone Repository
 
 ```bash
-git clone [https://github.com/username/nama-repository.git](https://github.com/username/nama-repository.git)
-cd nama-repository
+git clone https://github.com/Onyxiaaa/face-recognition-with-pix2pix.git
+cd face-recognition-with-pix2pix
 ```
 
 ### 3. Buat Virtual Environment (Sangat Direkomendasikan)
